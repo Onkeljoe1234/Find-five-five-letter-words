@@ -1,3 +1,5 @@
-# ignore the following files
+# ignore the following files and folders
 ngram_freq.csv
 words_alpha.txt
+.ipynb_checkpoints
+data
